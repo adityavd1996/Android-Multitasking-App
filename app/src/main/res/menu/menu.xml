@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action"
+        android:title="ACTION"
+        android:icon="@android:drawable/btn_minus"/>
+    <item android:id="@+id/RPG"
+        android:title="RPG"
+        android:icon="@android:drawable/btn_minus"/>
+    <item android:id="@+id/FPS"
+        android:title="FPS"
+        android:icon="@android:drawable/btn_minus"/>
+    <item android:id="@+id/SPORTS"
+        android:title="SPORTS"
+        android:icon="@android:drawable/btn_minus"/>
+    <item android:id="@+id/RACING"
+        android:title="RACING"
+        android:icon="@android:drawable/btn_minus"/>
+    <item android:id="@+id/STRATEGY"
+        android:title="STRATEGY"
+        android:icon="@android:drawable/btn_minus"/>
+</menu>
